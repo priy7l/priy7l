@@ -17,6 +17,7 @@ Hi, it's Priyal here. I'm a Computer Science student with a passion for cybersec
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=plastic&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=priyal-it&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyal-it&theme=dracula&hide_border=true)<br/>
@@ -24,5 +25,5 @@ Hi, it's Priyal here. I'm a Computer Science student with a passion for cybersec
 
 ---
 [![](https://visitcount.itsvg.in/api?id=priyal-it&icon=0&color=4)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
