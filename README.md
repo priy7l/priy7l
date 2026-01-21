@@ -16,6 +16,8 @@ Hi, it's Priyal here. Sometimes I find coding interesting.
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=plastic&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=plastic&logo=opencv&logoColor=white)
+
 
 <!--
 # 📊 GitHub Stats:
