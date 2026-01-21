@@ -10,15 +10,14 @@ Hi, it's Priyal here. Sometimes I find coding interesting.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=plastic&logo=mysql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=plastic&logo=opencv&logoColor=white)
-
 ![Jinja2](https://img.shields.io/badge/jinja2-%23B41717.svg?style=plastic&logo=jinja&logoColor=white)
 ![PyHTML](https://img.shields.io/badge/pyhtml-%230092CC.svg?style=plastic&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=priyal-it&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyal-it&theme=dracula&hide_border=true)<br/>
@@ -27,7 +26,7 @@ Hi, it's Priyal here. Sometimes I find coding interesting.
 ---
 [![](https://visitcount.itsvg.in/api?id=priyal-it&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!--
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 
 -->
