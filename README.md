@@ -16,6 +16,7 @@ Hi, it's Priyal here. Sometimes I find coding interesting.
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
+<!--
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=priy7l&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priy7l&theme=dracula&hide_border=true)<br/>
@@ -23,7 +24,6 @@ Hi, it's Priyal here. Sometimes I find coding interesting.
 
 [![](https://visitcount.itsvg.in/api?id=priy7l&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!--
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 
 -->
